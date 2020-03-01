@@ -1,4 +1,15 @@
 {
+  "articles": [
+    { "id": 1, "date": "2019-03-01", "title": "Libro 1", "content": "contenido etc etc etc" },
+    { "id": 2, "date": "2019-03-01", "title": "Libro 2", "content": "contenido etc etc etc" },
+    { "id": 3, "date": "2019-03-01", "title": "Libro 3", "content": "contenido etc etc etc" },
+    { "id": 4, "date": "2019-03-01", "title": "Libro 4", "content": "contenido etc etc etc" },
+    { "id": 5, "date": "2019-03-01", "title": "Libro 5", "content": "contenido etc etc etc" },
+    { "id": 6, "date": "2019-03-01", "title": "Libro 6", "content": "contenido etc etc etc" },
+    { "id": 7, "date": "2019-03-01", "title": "Libro 7", "content": "contenido etc etc etc" },
+    { "id": 8, "date": "2019-03-01", "title": "Libro 8", "content": "contenido etc etc etc" },
+    { "id": 9, "date": "2019-03-01", "title": "Libro 8", "content": "contenido etc etc etc" }
+  ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
