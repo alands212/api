@@ -8,10 +8,6 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "articles": [
-    { "id": 1, "date": "2019-03-01", "title": "Libro 1", "content": "contenido etc etc etc" },
-    { "id": 2, "date": "2019-03-01", "title": "Libro 2", "content": "contenido etc etc etc" }
-  ],
   "profile": {
     "name": "typicode"
   }
